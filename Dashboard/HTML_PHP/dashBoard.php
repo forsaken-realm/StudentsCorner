@@ -17,42 +17,6 @@
     let id_3 = document.getElementById("3").style.display = c;
     let id_4 = document.getElementById("4").style.display = d;
     let id_5 = document.getElementById("5").style.display = e;
-    // if (id_s == '1') {
-    //     id_1.style.display = "block";
-    //     id_2.style.display = "none";
-    //     id_3.style.display = "none";
-    //     id_4.style.display = "none";
-    //     id_5.style.display = "none";
-    // }
-    // if (id_s == '2') {
-       
-    //     id_1.style.display = "none";
-    //     id_2.style.display = "block";
-    //     id_3.style.display = "none";
-    //     id_4.style.display = "none";
-    //     id_5.style.display = "none";
-    // }
-    // if (id_s == '3') {
-    //     id_2.style.display = "none";
-    //     id_1.style.display = "none";
-    //     id_4.style.display = "none";
-    //     id_5.style.display = "none";
-    //     id_3.style.display = "block";
-    // }
-    // if (id_s == '4') {
-    //     id_4.style.display = "block";
-    //     id_2.style.display = "none";
-    //     id_3.style.display = "none";
-    //     id_1.style.display = "none";
-    //     id_5.style.display = "none";
-    // }
-    // if (id_s == '5') {
-    //     id_5.style.display = "block";
-    //     id_2.style.display = "none";
-    //     id_3.style.display = "none";
-    //     id_4.style.display = "none";
-    //     id_1.style.display = "none";
-    // }
     
 }
 </script>
