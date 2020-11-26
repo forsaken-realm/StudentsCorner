@@ -15,16 +15,16 @@ include('dashBoard.php');
 </head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <link rel="stylesheet" href="../css/announcement.css">
-<body style="background-color:  #474b54">
+<body style="background-color:  #fffcfc">
     
     <section id="cards">
         <div class="container py-2">
             <div class="d-flex flex-column flex-wrap align-items-center ">
                 <div class="col-lg-4 col-md-6 mb-4  ">
-                    <div class="shadow-sm border-0 rounded" style="width: 600px;height: 400px;background-color: #2f2f30">
+                    <div class="shadow-sm border-0 rounded" style="width: 600px;height: 400px;background-color: #2f2f30;margin-bottom: 100px;">
                         <div class="card-body">
                             <div class="user-picture">
-                                <img src="https://images.unsplash.com/photo-1495603889488-42d1d66e5523?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=130&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=130" class="shadow-sm rounded-circle" height="130" width="130"style="padding-bottom: 10px" />
+                                <img src="https://images.unsplash.com/photo-1495603889488-42d1d66e5523?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=130&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=130" class="shadow-sm rounded-circle" height="80" width="80"style="padding-bottom: 10px" />
                             </div>
                             <div class="user-content">
                                 <h5 class="text-capitalize user-name" style="color: white">Carry Johnshon</h5>
@@ -43,7 +43,7 @@ include('dashBoard.php');
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4  ">
-                    <div class="shadow-sm border-0 rounded" style="width: 600px;height: 400px;background-color:#2f2f30">
+                    <div class="shadow-sm border-0 rounded" style="width: 600px;height: 400px;background-color:#2f2f30;margin-bottom: 100px;">
                         <div class="card-body">
                             <div class="user-picture">
                                 <img src="https://images.unsplash.com/photo-1495603889488-42d1d66e5523?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=130&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=130" class="shadow-sm rounded-circle" height="130" width="130"style="padding-bottom: 10px" />
@@ -67,7 +67,7 @@ include('dashBoard.php');
             </div>
         </div>
     </section>
-    <div class="chat-box-container" style="margin-left:18% ">
+    <div class="chat-box-container" style="margin-left: 36.5%;">
         <textarea rows="2" placeholder="Your message" style="text-align: justify"></textarea>
         <button class="btn-send-message">Send</button>
     </div>
