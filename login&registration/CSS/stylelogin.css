@@ -15,14 +15,14 @@ body{
     width: 300px;
     padding: 40px;
     position: absolute;
-    top:240px;
+    /* top: 140px; */
     left: 50%;
     transform: translate(-50%,-50%);
     background: #191919;
     /* background: #18191a; */
     /* background: #274869; */
     text-align: center;
-    margin-top: 5%;
+    /* margin-top: 4%; */
     margin-bottom: 40px;
     order: 2;
   }
