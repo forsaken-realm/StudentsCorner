@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b6858e-9629-4925-ae13-87f3e8ebc9ea" name="Default Changelist" comment="">
+    <list default="true" id="08b6858e-9629-4925-ae13-87f3e8ebc9ea" name="Default Changelist" comment="Modified announcement.css &amp; announcement.php">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dashboard/CSS/announcement.css" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/CSS/announcement.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dashboard/HTML_PHP/announcement.php" beforeDir="false" afterPath="$PROJECT_DIR$/Dashboard/HTML_PHP/announcement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login&amp;registration/LectureSignIn&amp;UP/loginteacher.html" beforeDir="false" afterPath="$PROJECT_DIR$/login&amp;registration/LectureSignIn&amp;UP/loginteacher.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +46,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="announcement.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudentsCorner/Dashboard/HTML_PHP/announcement.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StudentsCorner/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.announcement.php" />
       </list>
     </recent_temporary>
@@ -50,68 +74,105 @@
       <workItem from="1606383751329" duration="2585000" />
       <workItem from="1606403230986" duration="131000" />
       <workItem from="1606403744030" duration="4522000" />
+      <workItem from="1606409344567" duration="2566000" />
+      <workItem from="1606449801434" duration="5283000" />
+      <workItem from="1606458984756" duration="4191000" />
+      <workItem from="1606465215012" duration="2093000" />
+      <workItem from="1606467340055" duration="2071000" />
     </task>
+    <task id="LOCAL-00001" summary="Modified announcement.css &amp; announcement.php">
+      <created>1606409459367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606409459367</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modified announcement.css &amp; announcement.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified announcement.css &amp; announcement.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="349" y="4" key="#PHP" timestamp="1606383796970">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="349" y="4" key="#PHP/0.0.1280.720@0.0.1280.720" timestamp="1606383796970" />
-    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606383778419">
+    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606411744282">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1606383778419" />
-    <state width="1237" height="220" key="GridCell.Tab.0.bottom" timestamp="1606386465911">
+    <state x="96" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1606411744282" />
+    <state width="1237" height="212" key="GridCell.Tab.0.bottom" timestamp="1606469141974">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.0.center" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606469141974" />
+    <state width="1237" height="212" key="GridCell.Tab.0.center" timestamp="1606469141974">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.0.left" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1606469141974" />
+    <state width="1237" height="212" key="GridCell.Tab.0.left" timestamp="1606469141974">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.0.right" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1606469141974" />
+    <state width="1237" height="212" key="GridCell.Tab.0.right" timestamp="1606469141974">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1606469141974" />
+    <state width="1237" height="212" key="GridCell.Tab.1.bottom" timestamp="1606469141975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606469141975" />
+    <state width="1237" height="212" key="GridCell.Tab.1.center" timestamp="1606469141975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1606469141975" />
+    <state width="1237" height="212" key="GridCell.Tab.1.left" timestamp="1606469141975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1606469141975" />
+    <state width="1237" height="212" key="GridCell.Tab.1.right" timestamp="1606469141975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.2.bottom" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1606469141975" />
+    <state width="1237" height="212" key="GridCell.Tab.2.bottom" timestamp="1606469141975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.2.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.2.center" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.2.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606469141975" />
+    <state width="1237" height="212" key="GridCell.Tab.2.center" timestamp="1606469141975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.2.center/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.2.left" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.2.center/0.0.1280.720@0.0.1280.720" timestamp="1606469141975" />
+    <state width="1237" height="212" key="GridCell.Tab.2.left" timestamp="1606469141975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.2.left/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
-    <state width="1237" height="220" key="GridCell.Tab.2.right" timestamp="1606386465911">
+    <state width="1237" height="212" key="GridCell.Tab.2.left/0.0.1280.720@0.0.1280.720" timestamp="1606469141975" />
+    <state width="1237" height="212" key="GridCell.Tab.2.right" timestamp="1606469141975">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="220" key="GridCell.Tab.2.right/0.0.1280.720@0.0.1280.720" timestamp="1606386465911" />
+    <state width="1237" height="212" key="GridCell.Tab.2.right/0.0.1280.720@0.0.1280.720" timestamp="1606469141975" />
+    <state x="142" y="6" key="SettingsEditor" timestamp="1606467325083">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1606467325083" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1606453113903">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1606453113903" />
   </component>
 </project>
