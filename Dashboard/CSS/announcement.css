@@ -20,9 +20,7 @@
 .my-form-popup{
     position: absolute;
     left: 40%;
-    top: 10%;
-    overflow: -moz-hidden-unscrollable;
-
+    top: 15%;
 }
 .form-container {
     max-width: 400px;
@@ -75,9 +73,9 @@
 /*CSS for Announcement profile pic*/
 .my-user-profile-class{
     background: black;
-    width: 90px;
-    height: 90px;
-    border-radius: 45px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
     margin-right: 30px;
