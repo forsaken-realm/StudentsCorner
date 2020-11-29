@@ -79,3 +79,7 @@ body{
 h5, h5 a{
   color: white;
 }
+
+select option{
+  color: white;
+}
